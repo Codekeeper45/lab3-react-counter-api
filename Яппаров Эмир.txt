@@ -1,0 +1,4 @@
+ФИО: Яппаров Эмир
+Лабораторная работа: №3 (React Components, Hooks, API)
+
+Ссылка на репозиторий GitHub: https://github.com/Codekeeper45/lab3-react-counter-api
